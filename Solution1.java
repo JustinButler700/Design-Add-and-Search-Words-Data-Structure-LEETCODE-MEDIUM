@@ -1,4 +1,6 @@
 //HashSet solution
+//Justin Butler
+//11/12/2021
 class WordDictionary {
     HashSet<String> dict;
     boolean singleChar = false;
